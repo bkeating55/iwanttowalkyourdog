@@ -1,0 +1,49 @@
+body {
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+}
+p {
+  font-size: 16px;
+}
+.margin {margin-bottom: 45px;}
+.bg-1 {
+    background-color: #1abc9c;
+    color: #ffffff;
+}
+.bg-1 p {
+  margin-top: 15px;
+}
+.bg-2 {
+    background-color: #474e5d;
+    color: #ffffff;
+  }
+.bg-3 {
+    background-color: #ffffff;
+    color: #555555;
+}
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+.navbar-nav  li a:hover {
+    color: #1abc9c !important;
+}
+#about p {
+  bottom: 0;
+  text-align: left;
+  font-size: 18px;
+}
+.form-group{
+  text-align: center;
+}
