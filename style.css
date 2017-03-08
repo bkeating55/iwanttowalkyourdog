@@ -38,7 +38,7 @@ p {
     letter-spacing: 5px;
 }
 .navbar-nav  li a:hover {
-    color: #1abc9c !important;
+    color: white !important;
 }
 #about p {
   bottom: 0;
@@ -49,11 +49,6 @@ p {
   text-align: center;
 }
 
-#type p {
-  color: black;
-}
-
-ul {
-  text-align: left;
-  padding-left: 500px;
+img {
+  border: 2px solid black;
 }
