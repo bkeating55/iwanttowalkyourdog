@@ -5,6 +5,7 @@ body {
 }
 p {
   font-size: 18px;
+
 }
 .margin {margin-bottom: 45px;}
 .bg-1 {
@@ -46,4 +47,13 @@ p {
 }
 .form-group{
   text-align: center;
+}
+
+#type p {
+  color: black;
+}
+
+ul {
+  text-align: left;
+  padding-left: 400px;
 }
