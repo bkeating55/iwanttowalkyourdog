@@ -44,6 +44,7 @@ p {
   bottom: 0;
   text-align: left;
   font-size: 18px;
+  padding: 2px;
 }
 .form-group{
   text-align: center;
@@ -51,4 +52,5 @@ p {
 
 img {
   border: 2px solid black;
+  max-height: 450px;
 }
